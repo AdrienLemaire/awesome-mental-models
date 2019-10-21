@@ -29,13 +29,14 @@
   Shapiro.
 * [Mental Models: The Ultimate
   Guide](https://blog.hubspot.com/marketing/mental-models) — Aja Frost
+* [Mental Models](https://www.kevinespiritu.com/mental-models/) — Kevin Espiritu
 
 ## Community
 
 * [HackerNews](https://news.ycombinator.com/)
 * [Twitter](https://twitter.com/hashtag/MentalModels)
 * [Reddit](https://www.reddit.com/r/mentalmodels)
-* [Slack](https://mental-modelshq.slack.com/)
+* [Slack](https://join.slack.com/t/mental-modelshq/shared_invite/enQtODAyMzQyOTg4NzA5LWE0ZWMyZGNmMzRiMzVkOWUzYTc3MjBhODcyODk5MzQ1NTBmMjE4YzQzOTYyYTRmMjBhZmJkYjJjZDNiZDM1YTU)
 
 ## Models
 
