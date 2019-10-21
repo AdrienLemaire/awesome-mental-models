@@ -1,4 +1,4 @@
-# awesome-mental-models
+# awesome-mental-models [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 ## Contents
@@ -6,6 +6,7 @@
 - [Books](#books)
 - [Articles](#articles)
 - [Communities](#communities)
+- [Other](#other)
 
 ## Books
 
@@ -42,3 +43,9 @@
 * [Twitter](https://twitter.com/hashtag/MentalModels)
 * [Reddit](https://www.reddit.com/r/mentalmodels)
 * [Slack](https://join.slack.com/t/mental-modelshq/shared_invite/enQtODAyMzQyOTg4NzA5LWE0ZWMyZGNmMzRiMzVkOWUzYTc3MjBhODcyODk5MzQ1NTBmMjE4YzQzOTYyYTRmMjBhZmJkYjJjZDNiZDM1YTU)
+
+## Other
+
+* [Anki decks - mental models](https://ankiweb.net/shared/decks/mental%20model)
+* [Anki decks - intuition
+  pumps](https://ankiweb.net/shared/decks/intuition%20pump)
