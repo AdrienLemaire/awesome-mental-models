@@ -1,4 +1,6 @@
-# awesome-mental-models [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Mental Models [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+Synonyms: heuristics, intuition pumps, design patterns
 
 
 ## Contents
