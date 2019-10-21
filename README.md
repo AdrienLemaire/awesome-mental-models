@@ -5,7 +5,7 @@
 
 - [Books](#books)
 - [Articles](#articles)
-- [Models](#models)
+- [Communities](#communities)
 
 ## Books
 
@@ -23,24 +23,22 @@
 
 ## Articles
 
+* [Mental models](https://www.julian.com/blog/mental-model-examples) — Julian
+  Shapiro. (2019/08)
+* [Mental Models: The Ultimate
+  Guide](https://blog.hubspot.com/marketing/mental-models) — Aja Frost (2018/09)
 * [Mental Models I find Repeatedly
   useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
-  — Gabriel Weinberg
+  — Gabriel Weinberg (2016/07)
+* [Mental Models](https://www.kevinespiritu.com/mental-models/) — Kevin Espiritu
+  (2015/09)
 * [Mental Models: The Best Way to Make Intelligent Decisions (109 Models
   Explained)](https://fs.blog/mental-models/) — Farnam Street Media Inc
-* [Mental models](https://www.julian.com/blog/mental-model-examples) — Julian
-  Shapiro.
-* [Mental Models: The Ultimate
-  Guide](https://blog.hubspot.com/marketing/mental-models) — Aja Frost
-* [Mental Models](https://www.kevinespiritu.com/mental-models/) — Kevin Espiritu
+  (2011/08)
 
-## Community
+## Communities
 
 * [HackerNews](https://news.ycombinator.com/)
 * [Twitter](https://twitter.com/hashtag/MentalModels)
 * [Reddit](https://www.reddit.com/r/mentalmodels)
 * [Slack](https://join.slack.com/t/mental-modelshq/shared_invite/enQtODAyMzQyOTg4NzA5LWE0ZWMyZGNmMzRiMzVkOWUzYTc3MjBhODcyODk5MzQ1NTBmMjE4YzQzOTYyYTRmMjBhZmJkYjJjZDNiZDM1YTU)
-
-## Models
-
-TODO
