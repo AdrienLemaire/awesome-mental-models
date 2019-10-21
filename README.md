@@ -9,14 +9,17 @@
 
 ## Books
 
-* [Super Thinking](https://www.goodreads.com/book/show/40664390-super-thinking)
-  — Gabriel Weinberg & Lauren McCann
 * [The Great Mental Models: General Thinking
   Concepts](https://www.goodreads.com/book/show/44245196-the-great-mental-models)
-  — Shane Parrish & Rhiannon Beaubien
+  — Shane Parrish, Rhiannon Beaubien (2019/10)
+* [Super Thinking](https://www.goodreads.com/book/show/40664390-super-thinking)
+  — Gabriel Weinberg, Lauren McCann (2019/06)
 * [Intuition Pumps and Other tools for
   thinking](https://www.goodreads.com/book/show/18378002-intuition-pumps-and-other-tools-for-thinking)
-  — Daniel C. Dennett
+  — Daniel C. Dennett (2013/05)
+* [Thinking in Systems: A
+  Primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems) —
+  Donella H. Meadows, Diana Wright (2008/12)
 
 ## Articles
 
