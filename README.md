@@ -104,9 +104,7 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 ## Citations
 
 > 80 or 90 important models will carry about 90% of the freight in making you a worldly-wise person. And, of those, only a mere handful really carry very heavy freight.
-
-— Charlie Munger
+> — Charlie Munger
 
 > Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility.
-
-— Yuval Noah Harari
+> — Yuval Noah Harari
