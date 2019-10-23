@@ -1,6 +1,6 @@
 # Awesome Mental Models [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Synonyms: heuristics, intuition pumps, design patterns
+Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for thought
 
 
 ## Contents
@@ -21,6 +21,9 @@ Synonyms: heuristics, intuition pumps, design patterns
   — Gabriel Weinberg, Lauren McCann (2019/06)
 * [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.goodreads.com/book/show/39088592-the-model-thinker)
   — Scott E.  Page (2018/11)
+* [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad
+  Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) — James
+  Clear (2018/10)
 * [Competing Against
   Luck](https://www.goodreads.com/book/show/28820024-competing-against-luck) —
   Clayton M. Christensen, Taddy Hall, Karen Dillon, David Duncan (2016/10)
@@ -56,9 +59,13 @@ Synonyms: heuristics, intuition pumps, design patterns
   Shapiro. (2019/08)
 * [Mental Models: The Ultimate
   Guide](https://blog.hubspot.com/marketing/mental-models) — Aja Frost (2018/09)
+* [Mental Models: How to Train Your Brain to Think in New
+  Ways](https://jamesclear.com/feynman-mental-models) — James Clear (2017/07)
 * [Mental Models I find Repeatedly
   useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
   — Gabriel Weinberg (2016/07)
+* [Mental Models: Learn How to Think Better and Gain a Mental
+  Edge](https://jamesclear.com/mental-models) — James Clear (2015/11)
 * [Mental Models](https://www.kevinespiritu.com/mental-models/) — Kevin Espiritu
   (2015/09)
 * [Mental Models: The Best Way to Make Intelligent Decisions (109 Models
