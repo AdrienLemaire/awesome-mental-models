@@ -33,6 +33,9 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 * [Principles: Life and
   Work](https://www.goodreads.com/book/show/34536488-principles) — Ray Dalio,
   Jeremy Bobb (2011)
+* [The Personal MBA: Master the Art of
+  Business](https://www.goodreads.com/book/show/9512985-the-personal-mba) — Josh
+  Kaufman (2010/12)
 * [Thinking in Systems: A
   Primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems) —
   Donella H. Meadows, Diana Wright (2008/12)
