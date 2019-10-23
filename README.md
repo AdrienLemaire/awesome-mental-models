@@ -2,7 +2,6 @@
 
 Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for thought
 
-
 ## Contents
 
 - [Books](#books)
@@ -19,7 +18,7 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
   Concepts](https://www.goodreads.com/book/show/44245196-the-great-mental-models)
   — Shane Parrish, Rhiannon Beaubien (2019/10)
 * [Super Thinking](https://www.goodreads.com/book/show/40664390-super-thinking)
-  — Gabriel Weinberg, Lauren McCann (2019/06)
+  — Gabriel Weinberg, Lauren McCann (2019/06) :sparkles:
 * [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.goodreads.com/book/show/39088592-the-model-thinker)
   — Scott E.  Page (2018/11)
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad
@@ -75,6 +74,9 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 * [Mental Models: The Best Way to Make Intelligent Decisions (109 Models
   Explained)](https://fs.blog/mental-models/) — Farnam Street Media Inc
   (2011/08)
+* [The Top 100 Mental Models Needed To Succeed In
+  Business](http://robdkelly.com/blog/mental-models/a-list-of-top-100-mental-models-for-business/)
+  — Rob Kelly (2011/05)
 
 ## Talks
 
