@@ -80,13 +80,21 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 
 ## Talks
 
+* [Mental Models 101 - How To Make Better Decisions | George MacGill | Modern
+  Wisdom Podcast #069](https://www.youtube.com/watch?v=m_56L8EGLIk) — 2019/05
 * [Making Sense with Sam Harris #155 - Mental Models (with Shane
   Parrish)](https://www.youtube.com/watch?v=xYoecW3j7u0) (2019/04)
 * [Daniel Dennett: "Intuition Pumps and Other Tools for Thinking" | Talks at
   Google](https://www.youtube.com/watch?v=4Q_mY54hjM0) (2013/05)
+* [Progress Leaves Clues](https://www.youtube.com/channel/UCqwv2pNwm2toS7IzZrvLGPA)
 
 ## Websites
+
 * [Visual learning to make better decisions](https://www.enchanting.io/)
+* [Mental Models Practices](https://mmpractices.com/)
+* [Mental Model Dictionary](https://www.mentalmodeldictionary.com/)
+* [The Mental Models Global Laboratory](https://www.modeltheory.org/)
+* [Effectiviology](https://effectiviology.com/start-here/)
 
 ## Study
 
