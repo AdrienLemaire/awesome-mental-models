@@ -103,6 +103,9 @@ Channels:
 * [Mental Model Dictionary](https://www.mentalmodeldictionary.com/)
 * [The Mental Models Global Laboratory](https://www.modeltheory.org/)
 * [Effectiviology](https://effectiviology.com/start-here/)
+* [School of Thought](https://www.schoolofthought.org/)
+* [Your logical fallacy is](https://yourlogicalfallacyis.com/)
+* [Your bias is](https://yourbias.is/)
 
 ## Study
 
