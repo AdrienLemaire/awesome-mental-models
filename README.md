@@ -86,7 +86,12 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
   Parrish)](https://www.youtube.com/watch?v=xYoecW3j7u0) (2019/04)
 * [Daniel Dennett: "Intuition Pumps and Other Tools for Thinking" | Talks at
   Google](https://www.youtube.com/watch?v=4Q_mY54hjM0) (2013/05)
+
+Channels:
+
 * [Progress Leaves Clues](https://www.youtube.com/channel/UCqwv2pNwm2toS7IzZrvLGPA)
+* [The Knowledge Project with Shane
+  Parrish](https://fs.blog/the-knowledge-project/)
 
 ## Websites
 
@@ -114,6 +119,9 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 ## Citations
 
 > 80 or 90 important models will carry about 90% of the freight in making you a worldly-wise person. And, of those, only a mere handful really carry very heavy freight.
+> — Charlie Munger
+
+> You get further in life by avoiding repeated stupidity than you do by striving for maximum intelligence.
 > — Charlie Munger
 
 > Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility.
