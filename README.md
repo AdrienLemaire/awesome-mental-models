@@ -58,6 +58,9 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 
 ## Articles
 
+* [How can we develop transformative tools for
+  thought?](https://numinous.productions/ttft/) — Andy Matuschak and Michael
+  Nielsen (2019/10)
 * [Mental models](https://www.julian.com/blog/mental-model-examples) — Julian
   Shapiro. (2019/08)
 * [Mental Models: The Ultimate
