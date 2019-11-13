@@ -106,6 +106,8 @@ Channels:
 * [School of Thought](https://www.schoolofthought.org/)
 * [Your logical fallacy is](https://yourlogicalfallacyis.com/)
 * [Your bias is](https://yourbias.is/)
+* [My Mental Models](https://www.mymentalmodels.info/)
+* [Think Mental Models](http://www.thinkmentalmodels.com/)
 
 ## Study
 
