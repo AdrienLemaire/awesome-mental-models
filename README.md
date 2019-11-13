@@ -121,14 +121,3 @@ Channels:
 * [Twitter](https://twitter.com/hashtag/MentalModels)
 * [Reddit](https://www.reddit.com/r/mentalmodels)
 * [Slack](https://join.slack.com/t/mental-modelshq/shared_invite/enQtODAyMzQyOTg4NzA5LWE0ZWMyZGNmMzRiMzVkOWUzYTc3MjBhODcyODk5MzQ1NTBmMjE4YzQzOTYyYTRmMjBhZmJkYjJjZDNiZDM1YTU)
-
-## Citations
-
-> 80 or 90 important models will carry about 90% of the freight in making you a worldly-wise person. And, of those, only a mere handful really carry very heavy freight.
-> — Charlie Munger
-
-> You get further in life by avoiding repeated stupidity than you do by striving for maximum intelligence.
-> — Charlie Munger
-
-> Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility.
-> — Yuval Noah Harari
