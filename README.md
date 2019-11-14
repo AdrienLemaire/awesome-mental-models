@@ -10,7 +10,7 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 - [Websites](#websites)
 - [Study](#study)
 - [Communities](#communities)
-- [Citations](#citations)
+- [Mental models list](#mental_models_list)
 
 ## Books
 
@@ -123,3 +123,21 @@ Channels:
 * [Twitter](https://twitter.com/hashtag/MentalModels)
 * [Reddit](https://www.reddit.com/r/mentalmodels)
 * [Slack](https://join.slack.com/t/mental-modelshq/shared_invite/enQtODAyMzQyOTg4NzA5LWE0ZWMyZGNmMzRiMzVkOWUzYTc3MjBhODcyODk5MzQ1NTBmMjE4YzQzOTYyYTRmMjBhZmJkYjJjZDNiZDM1YTU)
+
+## Mental models list
+
+### Economics
+
+### Psychology
+
+### Thinking
+
+### Biology
+
+### Chemistry
+
+### Physics
+
+### Engineering
+
+### Mathematics
