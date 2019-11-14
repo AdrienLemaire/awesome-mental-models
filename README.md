@@ -10,7 +10,15 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 - [Websites](#websites)
 - [Study](#study)
 - [Communities](#communities)
-- [Mental models list](#mental_models_list)
+- [Mental models list](#mental-models-list)
+    - [Economics](#economics)
+    - [Psychology](#psychology)
+    - [Thinking](#thinking)
+    - [Biology](#biology)
+    - [Chemistry](#chemistry)
+    - [Physics](#physics)
+    - [Engineering](#engineering)
+    - [Mathematics](#mathematics)
 
 ## Books
 
