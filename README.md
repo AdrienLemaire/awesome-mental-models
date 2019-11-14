@@ -136,16 +136,38 @@ Channels:
 
 ### Economics
 
+* Supply and Demand
+
 ### Psychology
+
+* Survivorship Bias
 
 ### Thinking
 
+* The Scientific Method
+* Inversion
+* Working Backward
+
 ### Biology
+
+* Evolution by Natural Selection
 
 ### Chemistry
 
+* Activation Energy
+
 ### Physics
+
+* Critical Mass
+* Relativity
+* Velocity
 
 ### Engineering
 
+* Leverage
+
 ### Mathematics
+
+* Normal Distribution (Bell Curve)
+* Permutations and Combinations
+* Power Laws
