@@ -69,6 +69,9 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 * [How can we develop transformative tools for
   thought?](https://numinous.productions/ttft/) — Andy Matuschak and Michael
   Nielsen (2019/10)
+* [Why You Should look at Everything as a
+  Process](https://www.jibranelbazi.com/blog/why-you-should-look-at-everything-as-a-process)
+  — Jibran (2019/10)
 * [Mental models](https://www.julian.com/blog/mental-model-examples) — Julian
   Shapiro. (2019/08)
 * [Mental Models: The Ultimate
@@ -106,6 +109,10 @@ Channels:
 
 ## Websites
 
+* [World Development
+  Reports](https://elibrary.worldbank.org/action/showPublications?SeriesKey=b02)
+    * [Report 2015 Chap 3: Thinking with mental
+      models](https://elibrary.worldbank.org/doi/10.1596/978-1-4648-0342-0_ch3)
 * [Visual learning to make better decisions](https://www.enchanting.io/)
 * [Mental Models Practices](https://mmpractices.com/)
 * [Mental Model Dictionary](https://www.mentalmodeldictionary.com/)
@@ -140,6 +147,13 @@ Channels:
 
 ### Psychology
 
+* Cialdini's 6 principles of influence:
+  * Commitment (“If people commit…they are more likely to honor that commitment.”)
+  * Liking (“People are easily persuaded by other people they like.”)
+  * Authority (“People will tend to obey authority figures.”)
+  * Scarcity(“Perceived scarcity will generate demand”).
+  * Social Proof (“People will do things they see other people are doing.”)
+  * Reciprocity (“People tend to return a favor.”)
 * Survivorship Bias
 
 ### Thinking
