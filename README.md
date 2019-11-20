@@ -19,6 +19,7 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
     - [Physics](#physics)
     - [Engineering](#engineering)
     - [Mathematics](#mathematics)
+- [Mental models groups](#mental-models-groups)
 
 ## Books
 
@@ -144,6 +145,21 @@ Channels:
 ### Economics
 
 * Supply and Demand
+* **Fear of Missing Out (FOMO)**: A pervasive apprehension that others might be
+  having rewarding experiences from which one is absent.
+* **Preferred Stock vs Common Stock**: Preferred stock is a type of stock which
+  may have any combination of features not possessed by common stock including
+  properties of both an equity and a debt instrument, and is generally
+  considered a hybrid instrument.
+* **Margin of Safety**: The difference between the intrinsic value of a stock
+  and its market price.
+* **Investing vs Speculation**: Typically, high-risk trades that are almost akin
+  to gambling fall under the umbrella of speculation, whereas lower-risk
+  investments based on fundamentals and analysis fall into the category of
+  investing.
+* **Compound Interest**: Interest on interest. It is the result of reinvesting
+  interest, rather than paying it out, so that interest in the next period is
+  then earned on the principal sum plus previously-accumulated interest.
 
 ### Psychology
 
@@ -243,3 +259,19 @@ Channels:
 * **Generalist vs Specialist**: A generalist is a person with a wide array of
   knowledge, the opposite of which is a specialist.” (related: hedgehog vs fox —
   “A fox knows many things, but a hedgehog one important thing.
+
+
+## Mental models groups
+Picked from the various books & articles listed above
+
+* **Avoid present bias**: Use **commitment** and the **default effect**.
+* **Approaching systems**:
+  1. **Local/Global**: start by identifying the highest-leverage level to
+     optimize at: Ask whether you’re optimizing the machine or a cog within it
+  2. **Theory of Constraints**
+  3. **First Principles**
+* **Making decisions**
+  1. Long-term decisions: **Regret Minimization**
+  2. Medium-term decisions: **Pareto's Principle**
+  3. Short-term decisions: **ICE**
+  4. Day-to-day decisions: **Eisenhower Matrix**
