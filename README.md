@@ -196,9 +196,25 @@ Channels:
 
 ### Physics
 
-* Critical Mass
+* Critical Mass: The smallest amount of fissile material needed for a sustained
+  nuclear chain reaction.
 * Relativity
 * Velocity
+* Activation Energy: The minimum energy which must be available to a chemical
+  system with potential reactants to result in a chemical reaction.
+* Catalyst: A substance which increases the rate of a chemical reaction.
+* Leverage: The force amplification achieved by using a tool, mechanical device
+  or machine system
+* Inertia: the resistance of any physical object to any change in its state of
+  motion; this includes changes to its speed, direction or state of rest. It is
+  the tendency of objects to keep moving in a straight line at constant
+  velocity.
+* Half-life: the time required for a quantity to reduce to half its initial
+  value. The term is commonly used in nuclear physics to describe how quickly
+  unstable atoms undergo, or how long stable atoms survive, radioactive decay.
+* Heisenberg Uncertainty Principle: A fundamental limit to the precision with
+  which certain pairs of physical properties of a particle, known as
+  complementary variables, such as position x and momentum p, can be known.
 
 ### Engineering
 
