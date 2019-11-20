@@ -147,7 +147,7 @@ Channels:
 
 ### Psychology
 
-* Cialdini's 6 principles of influence:
+* **Cialdini's 6 principles of influence**:
   * Commitment (“If people commit…they are more likely to honor that
     commitment.”)
   * Liking (“People are easily persuaded by other people they like.”)
@@ -156,18 +156,18 @@ Channels:
   * Social Proof (“People will do things they see other people are doing.”)
   * Reciprocity (“People tend to return a favor.”)
 * Survivorship Bias
-* Bandwagon: Appealing to popularity or the fact that many people do something
+* **Bandwagon**: Appealing to popularity or the fact that many people do something
   as an attempted form of validation.
-* The Socratic method: getting a "yes, yes" response. He kept on asking
+* **The Socratic method**: getting a "yes, yes" response. He kept on asking
   questions until finally, almost without realizing it, his opponents found
   themselves embracing a conclusion they would have bitterly denied a few
   minutes previously.
-* Pygmalion Effect: The phenomenon whereby higher expectations lead to an
+* **Pygmalion Effect**: The phenomenon whereby higher expectations lead to an
   increase in performance.  (opposite to the Golem effect).
-* Introversion vs Extroversion: Extroversion tends to be manifested in outgoing,
+* **Introversion vs Extroversion**: Extroversion tends to be manifested in outgoing,
   talkative, energetic behavior, whereas introversion is manifested in more
   reserved and solitary behavior
-* IQ vs EQ: IQ is a total score derived from one of several standardized
+* **IQ vs EQ**: IQ is a total score derived from one of several standardized
   tests designed to assess human intelligence.” “EQ is the capacity of
   individuals to recognize their own, and other people’s emotions, to
   discriminate between different feelings and label them appropriately, and to
@@ -178,11 +178,11 @@ Channels:
 * The Scientific Method
 * Inversion
 * Working Backward
-* Growth Mindset vs Fixed Mindset: Those with a ‘fixed mindset’ believe that
+* **Growth Mindset vs Fixed Mindset**: Those with a ‘fixed mindset’ believe that
   abilities are mostly innate and interpret failure as the lack of necessary
   basic abilities, while those with a ‘growth mindset’ believe that they can
   acquire any given ability provided they invest effort or study.
-* Hindsight Bias: The inclination, after an event has occurred, to see the event
+* **Hindsight Bias**: The inclination, after an event has occurred, to see the event
   as having been predictable, despite there having been little or no objective
   basis for predicting it.
 
@@ -196,23 +196,23 @@ Channels:
 
 ### Physics
 
-* Critical Mass: The smallest amount of fissile material needed for a sustained
+* **Critical Mass**: The smallest amount of fissile material needed for a sustained
   nuclear chain reaction.
 * Relativity
 * Velocity
-* Activation Energy: The minimum energy which must be available to a chemical
+* **Activation Energy**: The minimum energy which must be available to a chemical
   system with potential reactants to result in a chemical reaction.
-* Catalyst: A substance which increases the rate of a chemical reaction.
-* Leverage: The force amplification achieved by using a tool, mechanical device
+* **Catalyst**: A substance which increases the rate of a chemical reaction.
+* **Leverage**: The force amplification achieved by using a tool, mechanical device
   or machine system
-* Inertia: the resistance of any physical object to any change in its state of
+* **Inertia**: the resistance of any physical object to any change in its state of
   motion; this includes changes to its speed, direction or state of rest. It is
   the tendency of objects to keep moving in a straight line at constant
   velocity.
-* Half-life: the time required for a quantity to reduce to half its initial
+* **Half-life**: the time required for a quantity to reduce to half its initial
   value. The term is commonly used in nuclear physics to describe how quickly
   unstable atoms undergo, or how long stable atoms survive, radioactive decay.
-* Heisenberg Uncertainty Principle: A fundamental limit to the precision with
+* **Heisenberg Uncertainty Principle**: A fundamental limit to the precision with
   which certain pairs of physical properties of a particle, known as
   complementary variables, such as position x and momentum p, can be known.
 
@@ -228,18 +228,18 @@ Channels:
 
 ### Managing
 
-* Weekly 1–1s: “1–1’s can add a whole new level of speed and agility to your
+* **Weekly 1–1s**: “1–1’s can add a whole new level of speed and agility to your
   company.”
 * Forcing Function — “A forcing function is any task, activity or event that
   forces you to take action and produce a result.”
-* DRI (Directly Responsible Individual): good things come if someone is
+* **DRI (Directly Responsible Individual)**: good things come if someone is
   explicitly responsible for something. (solution to "diffusion of
   responsibility" effect)
-* Virtual Team: A group of individuals who work across time, space and
+* **Virtual Team**: A group of individuals who work across time, space and
   organizational boundaries with links strengthened by webs of communication
   technology
-* Organizational Debt: All the people/culture compromises made to ‘just get it
+* **Organizational Debt**: All the people/culture compromises made to ‘just get it
   done’ in the early stages of a startup.
-* Generalist vs Specialist: A generalist is a person with a wide array of
+* **Generalist vs Specialist**: A generalist is a person with a wide array of
   knowledge, the opposite of which is a specialist.” (related: hedgehog vs fox —
   “A fox knows many things, but a hedgehog one important thing.
