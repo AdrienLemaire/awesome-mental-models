@@ -75,6 +75,7 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
   — Jibran (2019/10)
 * [Mental models](https://www.julian.com/blog/mental-model-examples) — Julian
   Shapiro. (2019/08)
+* [Solving Life’s Different Challenges with the 9 Mental Models](https://criticalthinkingsecrets.com/mental-models/) (2019/07)
 * [Mental Models: The Ultimate
   Guide](https://blog.hubspot.com/marketing/mental-models) — Aja Frost (2018/09)
 * [Mental Models: How to Train Your Brain to Think in New
@@ -260,7 +261,6 @@ Channels:
   knowledge, the opposite of which is a specialist.” (related: hedgehog vs fox —
   “A fox knows many things, but a hedgehog one important thing.
 
-
 ## Mental models groups
 Picked from the various books & articles listed above
 
@@ -275,3 +275,10 @@ Picked from the various books & articles listed above
   2. Medium-term decisions: **Pareto's Principle**
   3. Short-term decisions: **ICE**
   4. Day-to-day decisions: **Eisenhower Matrix**
+
+
+## Logical fallacies
+
+* **Conjunction fallacy**
+  * [TED - Can you outsmart this logical
+    fallacy?](https://www.youtube.com/watch?v=Ghbkv0MKV-w)
