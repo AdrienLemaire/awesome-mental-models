@@ -275,7 +275,7 @@ Picked from the various books & articles listed above
   3. **First Principles**
 * **Making decisions**
   1. Long-term decisions: **Regret Minimization**
-  2. Medium-term decisions: **Pareto's Principle**
+  2. Medium-term decisions: **Pareto's Principle**, **GIST**
   3. Short-term decisions: **ICE**
   4. Day-to-day decisions: **Eisenhower Matrix**
 
