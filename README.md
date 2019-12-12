@@ -202,6 +202,9 @@ Channels:
 * **Hindsight Bias**: The inclination, after an event has occurred, to see the event
   as having been predictable, despite there having been little or no objective
   basis for predicting it.
+* **Hacking Tests**: When evaluating a line of work, ask yourself: "To what
+  extent do you win at this kind of work by hacking bad tests?"
+  ([The lesson to unlearn](http://paulgraham.com/lesson.html))
 
 ### Biology
 
