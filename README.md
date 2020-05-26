@@ -23,6 +23,9 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 
 ## Books
 
+* [The Great Mental Models, Volume 2: Physics, Chemistry and
+  Biology](https://www.goodreads.com/book/show/52200318-the-great-mental-models-volume-2)
+  — Shane Parrish, Rhiannon Beaubien (2020/03)
 * [The Great Mental Models: General Thinking
   Concepts](https://www.goodreads.com/book/show/44245196-the-great-mental-models)
   — Shane Parrish, Rhiannon Beaubien (2019/10)
@@ -70,6 +73,7 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 
 ## Articles
 
+* [The Great Mental Models Project](https://fs.blog/tgmm) - Farnam Street (2020/05)
 * [How can we develop transformative tools for
   thought?](https://numinous.productions/ttft/) — Andy Matuschak and Michael
   Nielsen (2019/10)
