@@ -36,6 +36,9 @@ Synonyms: heuristics, intuition pumps, design patterns, atomic habits, tools for
 * [Competing Against
   Luck](https://www.goodreads.com/book/show/28820024-competing-against-luck) —
   Clayton M. Christensen, Taddy Hall, Karen Dillon, David Duncan (2016/10)
+* [Pebbles of Perception: How a Few Good Choices Make All The
+  Difference](https://www.goodreads.com/book/show/24247896-pebbles-of-perception) —
+  Laurence Endersen (2014/11)
 * [Intuition Pumps and Other tools for
   thinking](https://www.goodreads.com/book/show/18378002-intuition-pumps-and-other-tools-for-thinking)
   — Daniel C. Dennett (2013/05)
