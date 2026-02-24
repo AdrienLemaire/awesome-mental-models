@@ -131,6 +131,7 @@ Channels:
 * [Your logical fallacy is](https://yourlogicalfallacyis.com/)
 * [Your bias is](https://yourbias.is/)
 * [My Mental Models](https://www.mymentalmodels.info/)
+* [KeepRule](https://keeprule.com) - Investment principles and mental models from Buffett, Munger, and 26 masters for better decision-making.
 * [Think Mental Models](http://www.thinkmentalmodels.com/)
 
 ## Study
