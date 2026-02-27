@@ -132,6 +132,7 @@ Channels:
 * [Your bias is](https://yourbias.is/)
 * [My Mental Models](https://www.mymentalmodels.info/)
 * [Think Mental Models](http://www.thinkmentalmodels.com/)
+* [KeepRule](https://keeprule.com/) - A platform with 1,300+ decision-making principles from 26 investment masters (Buffett, Munger, Dalio, etc.) organized into 95+ real-world scenarios for applying mental models to investment and life decisions
 
 ## Study
 
