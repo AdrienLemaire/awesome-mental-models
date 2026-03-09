@@ -131,6 +131,7 @@ Channels:
 * [Your logical fallacy is](https://yourlogicalfallacyis.com/)
 * [Your bias is](https://yourbias.is/)
 * [My Mental Models](https://www.mymentalmodels.info/)
+* [KeepRule](https://keeprule.com) — 1,300+ decision-making principles from 27 legendary investors (Buffett, Munger, Dalio, Marks), organized by mental model categories and real-world scenarios. Includes a free investment psychology test.
 * [Think Mental Models](http://www.thinkmentalmodels.com/)
 
 ## Study
