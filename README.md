@@ -132,6 +132,8 @@ Channels:
 * [Your bias is](https://yourbias.is/)
 * [My Mental Models](https://www.mymentalmodels.info/)
 * [Think Mental Models](http://www.thinkmentalmodels.com/)
+* [3-Question IQ Challenge](https://ordinarymantrying.com/tools/example-iq-challenge.html) - 3 questions that expose the most common cognitive errors. Most people fail question 1. Free.
+* [Legendary Life Simulators](https://ordinarymantrying.com/tools/) - Practice decision-making under uncertainty by facing real decisions made by Mandela, Curie, Jobs, Musk, Buffett, and 7 others — blind, before the reveal. Free.
 
 ## Study
 
