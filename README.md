@@ -130,6 +130,7 @@ Channels:
 * [School of Thought](https://www.schoolofthought.org/)
 * [Your logical fallacy is](https://yourlogicalfallacyis.com/)
 * [Your bias is](https://yourbias.is/)
+* [Mind Traps Quiz](https://ordinarymantrying.com/tools/mind-traps.html) - Interactive quiz testing if you can spot cognitive biases in real decisions, not just define them. Open source, 8,000+ players.
 * [My Mental Models](https://www.mymentalmodels.info/)
 * [Think Mental Models](http://www.thinkmentalmodels.com/)
 
@@ -140,6 +141,7 @@ Channels:
   Anki
 * [Model Thinking MOOC](https://www.coursera.org/learn/model-thinking) —
   Coursera
+* [Mind Traps](https://ordinarymantrying.com/tools/mind-traps.html) — 40 psychology laws quiz: read a real scenario, name the law (Murphy's Law to Goodhart's Law)
 
 ## Communities
 
