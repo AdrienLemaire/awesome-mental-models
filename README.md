@@ -133,6 +133,8 @@ Channels:
 * [My Mental Models](https://www.mymentalmodels.info/)
 * [Think Mental Models](http://www.thinkmentalmodels.com/)
 
+* [DAUDIT](https://www.daudit.net) — Decision-context engine that audits thinking across five dimensions (World Model Gaps, Adversarial Risk, Theory of Mind, Decision State, Confidence vs Evidence) before you commit.
+
 ## Study
 
 * [mental models decks](https://ankiweb.net/shared/decks/mental%20model) — Anki
