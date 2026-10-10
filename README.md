@@ -132,6 +132,7 @@ Channels:
 * [Your bias is](https://yourbias.is/)
 * [My Mental Models](https://www.mymentalmodels.info/)
 * [Think Mental Models](http://www.thinkmentalmodels.com/)
+* [First Principles](https://firstp.site/) - English first-principles explanations with a concise AI question interface and labelled written examples.
 
 ## Study
 
